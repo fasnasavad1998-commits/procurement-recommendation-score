@@ -1,4 +1,4 @@
-# procurement-recommendation-score
+# Procurement-Recommendation-Score (PRS)
 A supply chain analytics project that builds a structured, data-driven framework for supplier evaluation and selection, drawing inspiration from the US Department of Defense's Supplier Performance Risk System (SPRS). 
 Working in a DoD defense contracting environment daily means seeing firsthand how supplier selection decisions can make or break operational continuity. This project takes those real-world principles and adapts them for civilian supply chains by combining supplier performance scoring, product criticality classification, and predictive modelling into a single procurement decision-support framework.
 ## What this project covers:
